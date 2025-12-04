@@ -1,0 +1,2 @@
+# devopes_interview_prepration_data_2025
+from Micro-degree
